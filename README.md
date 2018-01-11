@@ -17,7 +17,7 @@ The community could meet its energy demands in four ways (in this order).
 3. **Battery**  
     The battery supplies energy in case the community loses the bid or quantity of energy bid and energy from solar plant is less than the actual demand. The battery is charged in case the energy from market and the solar plant exceeds the demand. There is restriction given on how much battery can be charged or discharged in an hour.
 
-4. **DISCOM**
+4. **DISCOM**  
     In case all other sources are unable to provide energy, community fulfills its energy demand from DISCOM at fixed rate of 7 money units per electricity unit.
 
 For more details, refer to `Problem Statement.pdf`.
